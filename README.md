@@ -1,4 +1,4 @@
-# week5_application
+# week6_application
 application android
 
 อาจารย์ หนูขอโทษที่ส่งช้า อาจารย์เมตตาหนูเถอะ Bได้ไหม อาจารย์ชอบกินอะไรเดี๋ยวหนูซื้อไปให้
